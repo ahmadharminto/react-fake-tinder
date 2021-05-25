@@ -10,7 +10,7 @@ export const Header = () => {
             <IconButton>
                 <PersonIcon fontSize="large" className="header__icon" />
             </IconButton>
-            <img src="https://1000logos.net/wp-content/uploads/2018/07/tinder-logo.png" alt="tinder-logo" className="header__logo" />
+            <img src="/logo.png" alt="tinder-logo" className="header__logo" />
             <IconButton>
                 <ForumIcon fontSize="large" className="header__icon" />
             </IconButton>
